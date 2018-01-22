@@ -1,0 +1,9 @@
+swap/*
+backup/*
+colors/*
+bundle/*
+
+!swap/.keep
+!backup/.keep
+!colors/.keep
+!bundle/Vundle.vim
